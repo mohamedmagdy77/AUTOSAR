@@ -6,11 +6,11 @@
  *
  * Description: Header file for Application Tasks.
  *
- * Author: Mohamed Tarek
+ * Author: Mohamed Magdy
  ******************************************************************************/
 
-#ifndef APP_H_
-#define APP_H_
+#ifndef APP_H
+#define APP_H
 
 #include "Std_Types.h"
 
