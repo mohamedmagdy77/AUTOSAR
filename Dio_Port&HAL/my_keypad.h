@@ -25,9 +25,6 @@
 #define ROW				 4
 #define COLUMN			 4
 
-#define write_port GPIO_PORTC_DATA_REG
-#define read_port  GPIO_PORTC_DATA_REG
-
 uint8 keypadfind(void);
 
 
