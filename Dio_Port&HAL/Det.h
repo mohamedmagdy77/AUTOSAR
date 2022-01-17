@@ -45,11 +45,6 @@
  || (DET_AR_PATCH_VERSION != STD_TYPES_AR_RELEASE_PATCH_VERSION))
   #error "The AR version of Std_Types.h does not match the expected version"
 #endif
-
-extern uint16 GlobalModuleId;
-extern uint8  GlobalInstanceId;
-extern uint8  GlobalApiId;
-extern uint8  GlobalErrorId;
    
 /*******************************************************************************
  *                      Function Prototypes                                    *
